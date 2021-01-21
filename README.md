@@ -1,4 +1,7 @@
 # generalized-method-of-moments
+
+author: Allen C. Price (allencolemanprice@gmail.com)
+
 Scripts for analyzing data samples using the generalized method of moments.
 
 The files contained in this folder contain the code used in the following 
